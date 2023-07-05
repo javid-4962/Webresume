@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+#body-header{
+    height: 65vh;
+    background-image: url(bg2.webp);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 0.8;
+
+
+}
